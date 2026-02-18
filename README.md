@@ -24,6 +24,11 @@ Built for people with low vision and anyone who wants a more intuitive browsing 
 - Zustand - State management with chrome.storage persistence
 - Tailwind CSS - Shadow DOM isolated styling
 
+## Interface
+
+<img width="1307" height="783" alt="Captura de Tela 2026-02-18 às 09 59 57" src="https://github.com/user-attachments/assets/7db2c885-9616-4e59-a929-bb352ab602e7" />
+
+
 ## Installation
 
 ### Prerequisites
