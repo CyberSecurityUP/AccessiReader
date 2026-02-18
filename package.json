@@ -1,0 +1,40 @@
+{
+  "name": "accessireader",
+  "displayName": "AccessiReader",
+  "version": "1.0.0",
+  "description": "Accessibility extension that reads page content aloud with intelligent content classification",
+  "author": "AccessiReader",
+  "scripts": {
+    "dev": "plasmo dev",
+    "build": "plasmo build",
+    "build:firefox": "plasmo build --target=firefox-mv3",
+    "package": "plasmo package",
+    "clean": "rm -rf build .plasmo",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "plasmo": "0.90.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/chrome": "0.0.278",
+    "@types/node": "22.10.2",
+    "@types/react": "18.3.18",
+    "@types/react-dom": "18.3.5",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "5.7.2"
+  },
+  "manifest": {
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "host_permissions": [
+      "<all_urls>"
+    ]
+  }
+}

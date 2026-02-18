@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Plasmo cache and generated files
+.plasmo/
+
+# Build output
+build/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Prompt files
+prompt.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
