@@ -28,6 +28,9 @@ Built for people with low vision and anyone who wants a more intuitive browsing 
 
 <img width="1307" height="783" alt="Captura de Tela 2026-02-18 às 09 59 57" src="https://github.com/user-attachments/assets/7db2c885-9616-4e59-a929-bb352ab602e7" />
 
+### Settings
+
+<img width="282" height="561" alt="Captura de Tela 2026-02-18 às 10 00 59" src="https://github.com/user-attachments/assets/b6882499-e42d-419b-be0a-88ec500bfa2b" />
 
 ## Installation
 
